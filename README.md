@@ -1,2 +1,2 @@
 # WebTechnologies
-Web Exercises
+Web  Exercises
